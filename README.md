@@ -47,7 +47,6 @@
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JParedesArtica&show_icons=true&theme=dark" alt="Javier's github stats" />
 </a> -->
-<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jparedesartica&langs_count=8&theme=dark" />
 </a>
