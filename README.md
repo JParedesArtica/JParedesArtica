@@ -5,6 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agbalumo&pause=1000&color=2E3750&random=false&width=435&lines=Hola+soy+Javier+Paredes%2C bienvenidos;Soy+un+apasionado+Desarrollador+Full+Stack;Soy+del+maravilloso+pa%C3%ADs+llamado+Per%C3%BA" alt="Typing SVG" /></a>
 </p>
 <h3 align="left">Acerca de mí</h3><p align="left">
+<div>
 <p>Soy un Bachiller en Mecánica Eléctrica que decidió embarcarse en el emocionante viaje de la programación por pasión. Mi amor por la tecnología y mi deseo constante de aprender y mejorar me llevaron a este nuevo camino.
 </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
@@ -16,7 +17,7 @@
 <li>💼 Actualmente estoy trabajando en el proyecto [Codemind]</li>
 <!--  <li> 📫 Contactame al correo: javierjparedesa@gmail.com</li> -->
 </ul>
-
+</div>
  <h3 align="left">Proyectos Destacados</h3>
 <a href="https://github.com/JParedesArtica/codemind">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
