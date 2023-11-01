@@ -18,6 +18,7 @@
 <!--  <li> 📫 Contactame al correo: javierjparedesa@gmail.com</li> -->
 </ul>
 </div>
+</br>
  <h3 align="left">Proyectos Destacados</h3>
 <a href="https://github.com/JParedesArtica/codemind">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
