@@ -1,6 +1,6 @@
 
 <p align="center">
-<h1 align="center">👋Bienvenido a mi perfil👋</h1></p>
+<h1 align="center">👋Bienvenido a mi perfil de Github👋</h1></p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agbalumo&pause=1000&color=2E3750&random=false&width=435&lines=Hola+soy+Javier+Paredes%2C bienvenidos;Soy+un+apasionado+Desarrollador+Full+Stack;Soy+del+maravilloso+pa%C3%ADs+llamado+Per%C3%BA" alt="Typing SVG" /></a>
 </p>
@@ -8,7 +8,8 @@
 <div>
 <p>Soy un Bachiller en Mecánica Eléctrica que decidió embarcarse en el emocionante viaje de la programación por pasión. Mi amor por la tecnología y mi deseo constante de aprender y mejorar me llevaron a este nuevo camino.
 </p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> -->
+<img align="right" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif">
 <ul>
 <li> 💻 Me enfoco en el desarrollo de software y en la creación de soluciones que marcan la diferencia.</li>
 <li>❤️ Me encanta programar en React y en Phyton.</li>
