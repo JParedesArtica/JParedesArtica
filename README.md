@@ -9,8 +9,8 @@
 <p>Soy un Bachiller en Mecánica Eléctrica que decidió embarcarse en el emocionante viaje de la programación por pasión. Mi amor por la tecnología y mi deseo constante de aprender y mejorar me llevaron a este nuevo camino.
 </p>
 <!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> -->
-<!-- <img align="right" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif"> -->
-<img align="right" src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE3amxwcWVkOGI1ZWc1ZjNwamVwNGE3ZmttYXpoM284MDI1aHN4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif">
+<img align="right" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif">
+
 <ul>
 <li> 💻 Me enfoco en el desarrollo de software y en la creación de soluciones que marcan la diferencia.</li>
 <li>❤️ Me encanta programar en React y en Phyton.</li>
