@@ -9,7 +9,7 @@
 <p>Soy un Bachiller en Mecánica Eléctrica que decidió embarcarse en el emocionante viaje de la programación por pasión. Mi amor por la tecnología y mi deseo constante de aprender y mejorar me llevaron a este nuevo camino.
 </p>
 <!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> -->
-<img align="right" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif">
+<img align="right" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif"  height="400" width="400">
 
 <ul>
 <li> 💻 Me enfoco en el desarrollo de software y en la creación de soluciones que marcan la diferencia.</li>
