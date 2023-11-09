@@ -22,7 +22,10 @@
 </ul>
 </div>
  <h3 align="left">Proyectos Destacados</h3>
- 
+ <a href="https://github.com/JParedesArtica/codemind">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JParedesArtica&repo=JParedes-StarWars&theme=dark"/>
+</a>
 <a href="https://github.com/JParedesArtica/JParedes-StarWars">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JParedesArtica&repo=JParedes-StarWars&theme=dark"/>
